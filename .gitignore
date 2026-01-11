@@ -66,5 +66,7 @@ Thumbs.db
 test_comments.csv
 *.csv
 
-# Test reports
-test_reports/
+# Test files
+test_*.py
+debug_*.py
+*.egg-info/
